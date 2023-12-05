@@ -34,6 +34,42 @@ The outcome of the LLM model is called a "completion" and the act of using a mod
 
 
 
+##### LLM Use cases
+Use cases are various: text summarization, translation (example: english to programming language, french to english,...), entity extraction (identify people and places in a document), connected to external data sources, enable model to power interaction with real world (flight information,...)
+
+From 11M parameters of BERT, the # of parameters exploded. Example: 176 Billion parameters with BLOOM
+To note small models can be fine tuned to do really well small focused tasks so we don't always need large odels.
+
+##### Text generation before transformers
+It's important to note that generative algorithms are not new. Previous generations of language models made use of an architecture called recurrent neural networks or RNNs. 
+RNNs while powerful for their time, were limited by the amount of compute and memory needed to perform well at generative tasks. 
+Let's look at an example of an RNN carrying out a simple next-word prediction generative task. 
+The RNN needs to scale resources to see enough of the input (preceeding words in particular) to make a successfull prediction.
+Example with a small RNN
+![rnn small](images/rnn_prediction_small.png)
+
+Even after scaling the model, it had not seen enough of the input to make a proper prediction
+![rnn large](images/rnn_prediction_large.png)
+
+Models need to have an understanding of the whole sentence, and maybe whole document. And the pb is that language is complex. One word can have multiple meanings.
+For example "bank" can mean different things depending on context (river bank)
+
+Understanding language can be challenging too. Example: "The teacher taught the student with the book".
+Does it mean that the teacher taught the student with the help of the book?
+Or did the teacher taught the student who had a book? Or both?
+
+How can an algorithm make sense of human language if sometimes we can't?
+In 2017, after publication of :Attention is All You need" paaper from Google and hte university of Toronto, everything changed. 
+The **Transformer** architecture has arrived.
+![Transformer paper](images/transformers_paper.png)
+
+This novel approach unlocked the process in generative AI we see today. It can be scaled efficiently to use multi-core GPUs, it can parallel process input data, making use of much larger training datasets and its able to learn to pay attention to the meanting of the words it's processing. Attention is all you need. It's in the title
+
+
+
+
+
+
 ### Notebooks and code snippet
 
 ### Credits and Resources
