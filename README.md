@@ -22,6 +22,18 @@ In our paper, we show that the Transformer outperforms both recurrent and convol
 We will learn the intuitions behind some of these terms you may have heard before, like multi-headed attention. What is that and why does it make sense? And why did the transformer architecture really take off. To note transformer architecture also helped on other modalities than text/NLP like vision.
 To also note we can also use a transformer architecture with smaller foundational models than the large ones that have 100 of billion of parameters for single tasks like summarilizing dialog.
 
+#### Generative AI & LLMs
+Generative AI is a subset of traditional ML. find statistical pattern in massive data sets.
+Large Language Models - Trained on trillions of words over many weeks and months with lots of compute power. 
+Base LLM models are: BERT, BLOOM, GPT, LLaMa, PaLM, FLAN-T5...
+We can use them as-is or finte-tune them without the ned to train new models from scratch.
+To note other modalities are also supported (audio, video, speech,...).
+The way we interact with LLM is quite different: as opposed to formalized syntax/code used in models, LLMS use Natural language of human written instructions and perform tasks. Text passed to LLM is known as a "prompt". The space or memory aailable to the prompt is called the "context window". It is usually large wnough for a few 1000 of words but varies form a model to another.
+The outcome of the LLM model is called a "completion" and the act of using a model to generate the text is called "inference".
+![prompts and completion](./images/prompts_completion.png)
+
+
+
 ### Notebooks and code snippet
 
 ### Credits and Resources
