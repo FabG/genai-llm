@@ -2,10 +2,10 @@
 
 Below are some key notes from [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 
-##### Intro
+### Intro
 Generative AI and LLMs specifically are a general purpose technology. That means that similar to other general purpose technologies like deep learning and electricity, is useful not just for a single application, but for a lot of different applications that span many corners of the economy. Similar to the rise of deep learning that started maybe 15 years ago or so, there's a lot of important where it lies ahead of us that needs to be done over many years by many people, to identify use cases and build specific applications.
 
-#### Transformer Network
+### Transformer Network
 The [Transfomer: A Novel Neural Network Architecture for Language understanding](https://blog.research.google/2017/08/transformer-novel-neural-network.html)  blog and corresponding paper [Attention is All You Need](https://arxiv.org/abs/1706.03762) from Google were released on aug 2017.
 This is the foundation of LLM and Foundational Models. And it's amazing how long the transformer architecture has been around and it's still state of the art for many models
 
@@ -15,7 +15,7 @@ In our paper, we show that the Transformer outperforms both recurrent and convol
 We will learn the intuitions behind some of these terms you may have heard before, like multi-headed attention. What is that and why does it make sense? And why did the transformer architecture really take off. To note transformer architecture also helped on other modalities than text/NLP like vision.
 To also note we can also use a transformer architecture with smaller foundational models than the large ones that have 100 of billion of parameters for single tasks like summarilizing dialog.
 
-#### Generative AI & LLMs
+### Generative AI & LLMs
 Generative AI is a subset of traditional ML. find statistical pattern in massive data sets.
 Large Language Models - Trained on trillions of words over many weeks and months with lots of compute power. 
 Base LLM models are: BERT, BLOOM, GPT, LLaMa, PaLM, FLAN-T5...
@@ -27,13 +27,13 @@ The outcome of the LLM model is called a "completion" and the act of using a mod
 
 
 
-##### LLM Use cases
+### LLM Use cases
 Use cases are various: text summarization, translation (example: english to programming language, french to english,...), entity extraction (identify people and places in a document), connected to external data sources, enable model to power interaction with real world (flight information,...)
 
 From 11M parameters of BERT, the # of parameters exploded. Example: 176 Billion parameters with BLOOM
 To note small models can be fine tuned to do really well small focused tasks so we don't always need large odels.
 
-##### Text generation before transformers
+### Text generation before transformers
 It's important to note that generative algorithms are not new. Previous generations of language models made use of an architecture called recurrent neural networks or RNNs. 
 RNNs while powerful for their time, were limited by the amount of compute and memory needed to perform well at generative tasks. 
 Let's look at an example of an RNN carrying out a simple next-word prediction generative task. 

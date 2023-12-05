@@ -21,5 +21,5 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
  - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) Course from AWS and Deeplearning.ai
 
 #### Papers
- - [Attention is All You Need] (https://arxiv.org/abs/1706.03762) Google paper
+ - [Attention is All You Need](https://arxiv.org/abs/1706.03762) Google and Toronto University papaer introducing the Transformer architecture
  - [Transfomer: A Novel Neural Network Architecture for Language understanding](https://blog.research.google/2017/08/transformer-novel-neural-network.html) Google Blog
