@@ -60,5 +60,5 @@ This novel approach unlocked the process in generative AI we see today. It can b
 
 
 
-
+### Transformers architecture
 
