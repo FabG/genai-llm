@@ -1,4 +1,5 @@
 # Gen AI LLM - Course 1
+## Part 1 - Transformer introduction and architecture
 
 Below are some key notes from [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 

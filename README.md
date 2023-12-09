@@ -7,8 +7,10 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
  - [Deep Learning specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/)
 
 ### Courses - Generative AI with Large Language Model
-
- - [Course 1](genai-with-llm-course/course1/course1.md)
+ - Course 1
+  - [1 - Transformer intro and arch](genai-with-llm-course/course1/1_transformer_intro_arch.md)
+  - [2 - Generating Text with Transformers](genai-with-llm-course/course1/2_text_generation_transformer.md)
+  - [3 - Prompt Engineering](genai-with-llm-course/course1/3_prompt_engineering.md)
 
 
 
