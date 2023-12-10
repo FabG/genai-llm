@@ -10,7 +10,8 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
  - Course 1
   - [1 - Transformer intro and arch](genai-with-llm-course/course1/1_transformer_intro_arch.md)
   - [2 - Generating Text with Transformers](genai-with-llm-course/course1/2_text_generation_transformer.md)
-  - [3 - Prompt Engineering](genai-with-llm-course/course1/3_prompt_engineering.md)
+  - [3 - Attention is All you need (paper)](genai-with-llm-course/course1/3_attention_is_all_you_need.md)
+  - [4 - Prompt Engineering](genai-with-llm-course/course1/4_prompt_engineering.md)
 
 
 
