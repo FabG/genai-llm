@@ -77,7 +77,7 @@ Here is a diagram of the overall life cycle.
 
 #### Scope
 The most important step in any project is to define the scope as accurately and narrowly as you can. As you've seen in this course so far, LLMs are capable of carrying out many tasks, but their abilities depend strongly on the size and architecture of the model. You should think about what function the LLM will have in your specific application. Do you need the model to be able to carry out many different tasks, including long-form text generation or with a high degree of capability?
-[genai_good_at_many_tasks](../../images/genai_good_at_many_tasks.png)
+![genai_good_at_many_tasks](../../images/genai_good_at_many_tasks.png)
 
 
 Or is the task much more specific like named entity recognition so that your model only needs to be good at one thing. 
