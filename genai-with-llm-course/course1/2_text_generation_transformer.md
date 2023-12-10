@@ -1,7 +1,7 @@
 # Gen AI LLM - Course 1
 ## Part 2 - Generating Text with Transformers
 
-Below are some key notes from [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
+###### Below are some key notes from [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 
 ### Encoder and Decoder
 Let's walk through an example: Translation

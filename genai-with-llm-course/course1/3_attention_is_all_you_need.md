@@ -1,7 +1,7 @@
 # Gen AI LLM - Course 1
 ## Part 3 - Paper - "Attention is All You Need"
 
-Below are some key notes from [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
+###### Below are some key notes from [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 
 ![attention_is_all_you_need](../../images/attention_is_all_you_need.png)
 
