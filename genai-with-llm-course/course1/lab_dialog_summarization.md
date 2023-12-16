@@ -9,9 +9,8 @@ Data can be copied into Sagemaker Studio notebok via terminal:
 `aws s3 cp --recursive s3://dlai-generative-ai/labs/w1-549876/ ./`
 
 The Notebook is available here:
- - [Lab_1_summarize_dialogue.ipynb](Lab_1_summarize_dialogue.ipynb)
  - [Lab_1_summarize_dialogue_executed.ipynb](Lab_1_summarize_dialogue_executed.ipynb)
- - [Lab_1_summar… - JupyterLab - executed.pdf](Lab_1_summar… - JupyterLab - executed)
+ - [Lab_1_summar… - JupyterLab - executed.pdf](Lab_1_summarize_dialogue_executed.pdf)
 
 To note to run it you will need a `ml.m5/2xlarge` instance type, and `python3` as kernel.
 
