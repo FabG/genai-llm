@@ -47,6 +47,8 @@ Sometimes a single example won't be enough for the model to learn what you want 
 
 Here, you're working with an even smaller model that failed to carry out good sentiment analysis with one-shot inference. Instead, you're going to try few-shot inference by including a second example. This time, a negative review, including a mix of examples with different output classes can help the model to understand what it needs to do. You pass the new prompts to the model. And this time it understands the instruction and generates a completion that correctly identifies the sentiment of the review as negative. 
 
+Typically, in my experience, above five or six shots, so full prompt and then completions, you really don't gain much after that. Either the model can do it or it can't do it and going about five or six. 
+
 ![icl_few_shot_inference](../../images/icl_few_shot_inference.png)
 
 
@@ -67,3 +69,9 @@ In contrast, smaller models are generally only good at a small number of tasks. 
 You may have to try out a few models to find the right one for your use case. Once you've found the model that is working for you, there are a few settings that you can experiment with to influence the structure and style of the completions that the model generates.
 
 ![bert_bloom_llm_scale](../../images/bert_bloom_llm_scale.png)
+
+#### Additionalresources
+ - [EMNLP: Prompt Engineering is the new feature engineering](https://www.amazon.science/blog/emnlp-prompt-engineering-is-the-new-feature-engineering)
+ - [Zero-shot prompting for the Flan-T5 model in Sagemaker](https://aws.amazon.com/blogs/machine-learning/zero-shot-prompting-for-the-flan-t5-foundation-model-in-amazon-sagemaker-jumpstart/)
+ - [FLAN](https://github.com/google-research/FLAN/tree/main/flan/v2)
+

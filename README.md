@@ -13,6 +13,7 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [3 - Attention is All you need (paper)](genai-with-llm-course/course1/3_attention_is_all_you_need.md)
    - [4 - Prompt Engineering](genai-with-llm-course/course1/4_prompt_engineering.md)
    - [5 - Generative Configuration and GenAI Project Lifecycle](genai-with-llm-course/course1/5_generative_configuration.md)
+   - [Lab - Document Summarization with LLM Hugging Face FLAN T5](genai-with-llm-course/course1/lab_dialog_summarization.md)
 
 
 
