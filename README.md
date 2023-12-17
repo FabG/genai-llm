@@ -7,13 +7,16 @@ I first enrolled in a course from Deeplearning.ai called [Generative AI with Lar
 The main reason is my prior experience with Deeplearnin.ai as I gained a lot of knowledge from 2 prior courses from Andrew Ng and his team, namely [Machine Learning specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/) and [Deep Learning specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/)
 
 ### Courses - Generative AI with Large Language Model
- - Course 1
+ - Course 1 - Intro to LLMs and the generative AI project lifecycle
    - [1 - Transformer intro and arch](genai-with-llm-course/course1/1_transformer_intro_arch.md)
    - [2 - Generating Text with Transformers](genai-with-llm-course/course1/2_text_generation_transformer.md)
    - [3 - Attention is All you need (paper)](genai-with-llm-course/course1/3_attention_is_all_you_need.md)
    - [4 - Prompt Engineering](genai-with-llm-course/course1/4_prompt_engineering.md)
    - [5 - Generative Configuration and GenAI Project Lifecycle](genai-with-llm-course/course1/5_generative_configuration.md)
    - [Lab - Document Summarization with LLM Hugging Face FLAN T5](genai-with-llm-course/course1/lab_dialog_summarization.md)
+ - Course 2 - LLM pre-training and scling laws
+   - [1 - Pre-Training large language models](genai-with-llm-course/course2/1_pre-training_llm.md)
+
 
 
 
