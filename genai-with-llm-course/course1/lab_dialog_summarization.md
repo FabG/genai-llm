@@ -1,4 +1,4 @@
-# Lab 1 - Generative AI Use Case: Dialog summarizTion
+# Lab 1 - Generative AI Use Case: Dialog summarization
 
 In this use case, we will be generating a summary of a dialog with the pre-trained Large Language Model (LLM) FLAN-T5 from Hugging Face
 
