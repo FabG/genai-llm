@@ -14,9 +14,9 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [4 - Prompt Engineering](genai-with-llm-course/course1/4_prompt_engineering.md)
    - [5 - Generative Configuration and GenAI Project Lifecycle](genai-with-llm-course/course1/5_generative_configuration.md)
    - [Lab - Document Summarization with LLM Hugging Face FLAN T5](genai-with-llm-course/course1/lab_dialog_summarization.md)
- - Course 2 - LLM pre-training and scling laws
+ - Course 2 - LLM pre-training and scaling laws
    - [1 - Pre-Training large language models](genai-with-llm-course/course2/1_pre-training_llm.md)
-
+   - [2 - Computational Challenges of training LLMs](genai-with-llm-course/course2/2_computational_challenges_training_llm.md)
 
 
 
