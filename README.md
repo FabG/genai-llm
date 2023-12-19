@@ -18,6 +18,7 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [1 - Pre-Training large language models](genai-with-llm-course/course2/1_pre-training_llm.md)
    - [2 - Computational Challenges of training LLMs](genai-with-llm-course/course2/2_computational_challenges_training_llm.md)
    - [3 - Efficient multi-GPU compute strategies](genai-with-llm-course/course2/3_multi_gpu_strategies.md)
+   - [4 - Scaling laws and compute-optimal models](genai-with-llm-course/course2/4_scaling_laws_compute.md)
 
 
 
