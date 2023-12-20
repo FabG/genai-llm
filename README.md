@@ -35,6 +35,17 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
  - [Deep Learning specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/)
 
 #### Papers
- - [Attention is All You Need](https://arxiv.org/abs/1706.03762) Google and Toronto University papaer introducing the Transformer architecture
- - [Transfomer: A Novel Neural Network Architecture for Language understanding](https://blog.research.google/2017/08/transformer-novel-neural-network.html) Google Blog
- - [BloombergGPT paper](https://arxiv.org/abs/2303.17564)
+ - [Attention is All You Need](https://arxiv.org/abs/1706.03762) - Google and Toronto University papaer introducing the Transformer architecture, with the core "self-attention" mechanism. This article was the foundation for LLMs.
+ - [Transfomer: A Novel Neural Network Architecture for Language understanding](https://blog.research.google/2017/08/transformer-novel-neural-network.html) - Google Blog
+ - [BLOOM: BigScience 176B Model](https://arxiv.org/abs/2211.05100) - BLOOM is a open-source LLM with 176B parameters trained in an open and transparent way. In this paper, the authors present a detailed discussion of the dataset and process used to train the model. You can also see a high-level overview of the model [here](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4) 
+ - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) - empirical study by researchers at OpenAI exploring the scaling laws for large language models.
+ - [BloombergGPT paper](https://arxiv.org/abs/2303.17564) - LLM trained specifically for the finance domain, a good example that tried to follow chinchilla laws.
+ - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf) - Article from Meta AI proposing Efficient LLMs (their model with 13B parameters outperform GPT3 with 175B parameters on most benchmarks)
+ - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf) - Study from DeepMind to evaluate the optimal model size and number of tokens for training LLMs. Also known as “Chinchilla Paper”.
+
+
+
+#### Other resources
+ - [Hugging Face Tasks](https://huggingface.co/tasks)
+ - [Hugging Face models hub](https://huggingface.co/models)
+
