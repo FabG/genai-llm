@@ -19,6 +19,8 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [2 - Computational Challenges of training LLMs](genai-with-llm-course/course2/2_computational_challenges_training_llm.md)
    - [3 - Efficient multi-GPU compute strategies](genai-with-llm-course/course2/3_multi_gpu_strategies.md)
    - [4 - Scaling laws and compute-optimal models](genai-with-llm-course/course2/4_scaling_laws_compute.md)
+   - [5 - Pre-training for domain adaptation](genai-with-llm-course/course2/5_pre-training_model_adaptation.md)
+ - Quiz 1 [personal responses](genai-with-llm-course/quiz1/quiz1.md)
 
 
 
@@ -35,3 +37,4 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
 #### Papers
  - [Attention is All You Need](https://arxiv.org/abs/1706.03762) Google and Toronto University papaer introducing the Transformer architecture
  - [Transfomer: A Novel Neural Network Architecture for Language understanding](https://blog.research.google/2017/08/transformer-novel-neural-network.html) Google Blog
+ - [BloombergGPT paper](https://arxiv.org/abs/2303.17564)
