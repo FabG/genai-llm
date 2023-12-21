@@ -20,7 +20,12 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [3 - Efficient multi-GPU compute strategies](genai-with-llm-course/course2/3_multi_gpu_strategies.md)
    - [4 - Scaling laws and compute-optimal models](genai-with-llm-course/course2/4_scaling_laws_compute.md)
    - [5 - Pre-training for domain adaptation](genai-with-llm-course/course2/5_pre-training_model_adaptation.md)
- - Quiz 1 [personal responses](genai-with-llm-course/quiz1/quiz1.md)
+ - course 3 - Fine-tuning LLMs with instruction
+   - [1 - Instruction fine-tuning](genai-with-llm-course/course3/1_fine-tuning.md)
+
+
+ - Quizes
+   - [1 - LLM Transformers and pre-training scaling laws](genai-with-llm-course/quiz1/quiz1.md)
 
 
 

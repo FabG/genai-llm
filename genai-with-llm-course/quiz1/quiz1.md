@@ -3,7 +3,7 @@
 
 ###### This quiz is related to [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 
-Below is my response to the first quiz with a passing score of 100%
+Below are my personal responses - passing score of 100%
 ![quiz 1-1](../../images/quiz1_1.png)
 
 
