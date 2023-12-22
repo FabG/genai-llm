@@ -22,9 +22,10 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [5 - Pre-training for domain adaptation](genai-with-llm-course/course2/5_pre-training_model_adaptation.md)
  - course 3 - Fine-tuning LLMs with instruction
    - [1 - Instruction fine-tuning](genai-with-llm-course/course3/1_fine-tuning.md)
+   - [2 - Multi-task Instruction fine-tuning](genai-with-llm-course/course3/2_fine-tuning_multi-task.md)
 
 
- - Quizes
+ - Quiz
    - [1 - LLM Transformers and pre-training scaling laws](genai-with-llm-course/quiz1/quiz1.md)
 
 
@@ -47,6 +48,7 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
  - [BloombergGPT paper](https://arxiv.org/abs/2303.17564) - LLM trained specifically for the finance domain, a good example that tried to follow chinchilla laws.
  - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf) - Article from Meta AI proposing Efficient LLMs (their model with 13B parameters outperform GPT3 with 175B parameters on most benchmarks)
  - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf) - Study from DeepMind to evaluate the optimal model size and number of tokens for training LLMs. Also known as “Chinchilla Paper”.
+ - [FLAN (Fine-tuned LAnguage Net)](https://arxiv.org/abs/2210.11416) - an instruction finetuning method. FLAN achieves improvements in generalization, human usability, and zero-shot reasoning over the base model
 
 
 
