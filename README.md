@@ -23,6 +23,7 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
  - course 3 - Fine-tuning LLMs with instruction
    - [1 - Instruction fine-tuning](genai-with-llm-course/course3/1_fine-tuning.md)
    - [2 - Multi-task Instruction fine-tuning](genai-with-llm-course/course3/2_fine-tuning_multi-task.md)
+   - [3 - Model Evaluation](genai-with-llm-course/course3/3_model_evaluation.md)
 
 
  - Quiz
