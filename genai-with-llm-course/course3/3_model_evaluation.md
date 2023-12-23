@@ -76,7 +76,8 @@ The BLEU score quantifies the quality of a translation by checking how many n-gr
 ![llm_evaluation_bleu](../../images/llm_evaluation_bleu.png)
 
 
-### Benchmarks
+
+## Benchmarks
 In order to measure and compare LLMs more holistically, you can make use of pre-existing datasets, and associated benchmarks that have been established by LLM researchers specifically for this purpose. Selecting the right evaluation dataset is vital, so that you can accurately assess an LLM's performance, and understand its true capabilities. 
 
 You'll find it useful to select datasets that isolate specific model skills, like reasoning or common sense knowledge, and those that focus on potential risks, such as disinformation or copyright infringement. An important issue that you should consider is whether the model has seen your evaluation data during training. You'll get a more accurate and useful sense of the model's capabilities by evaluating its performance on data that it hasn't seen before. 
