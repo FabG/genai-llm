@@ -26,6 +26,7 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [3 - Model Evaluation and Benchmarks](genai-with-llm-course/course3/3_model_evaluation.md)
  - course 4 - Parameter efficient fine-tuning (PEFT)
    - [1 - Parameter efficient fine-tuning (PEFT)](genai-with-llm-course/course4/1_parameter_efficient_fine-tuning.md)
+   - [2 - PEFT techniques 1: LoRA](genai-with-llm-course/course4/2_peft_techniques_LoRA.md)
 
 
  - Quiz
