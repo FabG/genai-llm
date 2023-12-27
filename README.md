@@ -31,6 +31,7 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [Lab 2 - Fine-tuning using PEFT with LoRA](genai-with-llm-course/course4/lab_2_peft_LoRA.md)
  - course 5 - Reinforcement learning from human feedback
    - [1 - Reinforcement learning from hman feedback (RLHF)](genai-with-llm-course/course5/1_reinforcement_learning_from_human_feedback.md)
+   - [2 - RLHF: Obtaining feedback from humans](genai-with-llm-course/course5/2_rlhf_obtaining_feedback_from_humans.md)
 
  - Quiz
    - [1 - LLM Transformers and pre-training scaling laws](genai-with-llm-course/quiz/quiz1.md)
