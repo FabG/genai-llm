@@ -32,7 +32,8 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
 
 
  - Quiz
-   - [1 - LLM Transformers and pre-training scaling laws](genai-with-llm-course/quiz1/quiz1.md)
+   - [1 - LLM Transformers and pre-training scaling laws](genai-with-llm-course/quiz/quiz1.md)
+   - [2 - Fine Tuning LLMs with Instruction and PEFT](genai-with-llm-course/quiz/quiz2.md)
 
 
 
