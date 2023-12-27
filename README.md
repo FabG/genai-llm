@@ -56,10 +56,18 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
  - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf) - Article from Meta AI proposing Efficient LLMs (their model with 13B parameters outperform GPT3 with 175B parameters on most benchmarks)
  - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf) - Study from DeepMind to evaluate the optimal model size and number of tokens for training LLMs. Also known as “Chinchilla Paper”.
  - [FLAN (Fine-tuned LAnguage Net)](https://arxiv.org/abs/2210.11416) - an instruction finetuning method. FLAN achieves improvements in generalization, human usability, and zero-shot reasoning over the base model
-
-
+ - [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf) - Scaling fine-tuning with a focus on task, model size and chain-of-thought data.
+ - [Introducing FLAN: More generalizable Language Models with Instruction Fine-Tuning](https://blog.research.google/2021/10/introducing-flan-more-generalizable.html) - This blog (and article) explores instruction fine-tuning, which aims to make language models better at performing NLP tasks with zero-shot inference.
+ - [HELM - Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm/lite/latest/) - HELM is a living benchmark to evaluate Language Models more transparently. 
+ - [General Language Understanding Evaluation (GLUE) benchmark](https://openreview.net/pdf?id=rJ4km2R5t7) - This paper introduces GLUE, a benchmark for evaluating models on diverse natural language understanding (NLU) tasks and emphasizing the importance of improved general NLU systems.
+ - [ROUGE: A Package for Automatic Evaluation of Summaries](https://aclanthology.org/W04-1013.pdf) - This paper introduces and evaluates four different measures (ROUGE-N, ROUGE-L, ROUGE-W, and ROUGE-S) in the ROUGE summarization evaluation package, which assess the quality of summaries by comparing them to ideal human-generated summaries.
+ - [PEFT - Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) - This paper provides a systematic overview of Parameter-Efficient Fine-tuning (PEFT) Methods in all three categories discussed in the lecture videos.
+ - [LoRA Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf) - This paper proposes a parameter-efficient fine-tuning method that makes use of low-rank decomposition matrices to reduce the number of trainable parameters needed for fine-tuning language models.
+ - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf) - The paper explores "prompt tuning," a method for conditioning language models with learned soft prompts, achieving competitive performance compared to full fine-tuning and enabling model reuse for many tasks.
 
 #### Other resources
  - [Hugging Face Tasks](https://huggingface.co/tasks)
  - [Hugging Face models hub](https://huggingface.co/models)
+ - [DeepLearning.ai lecture notes](https://community.deeplearning.ai/t/genai-with-llms-lecture-notes/361913)
+
 
