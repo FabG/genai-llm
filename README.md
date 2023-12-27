@@ -36,6 +36,10 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [2 - Fine Tuning LLMs with Instruction and PEFT](genai-with-llm-course/quiz/quiz2.md)
 
 
+ - Slides from DeepLearning.ai (lecture notes)
+  - [Week 1](slides/W1.pdf]
+  - [Week 2](slides/W2.pdf]
+  - [Week 3](slides/W3.pdf]
 
 
 
