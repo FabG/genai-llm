@@ -33,6 +33,7 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [1 - Reinforcement learning from hman feedback (RLHF)](genai-with-llm-course/course5/1_reinforcement_learning_from_human_feedback.md)
    - [2 - RLHF: Obtaining feedback from humans](genai-with-llm-course/course5/2_rlhf_obtaining_feedback_from_humans.md)
    - [3 - RLHF: Reward hacking and KL Divergence](genai-with-llm-course/course5/3_rlhf_reward_hacking.md)
+   - [4 - Scaling human feedback](genai-with-llm-course/course5/4_scaling_human_feedback.md)
 
  - Quiz
    - [1 - LLM Transformers and pre-training scaling laws](genai-with-llm-course/quiz/quiz1.md)
