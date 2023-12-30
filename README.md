@@ -37,7 +37,7 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [Lab - Fine-Tune FLAN-T5 to Generate More-Positive Summaries](genai-with-llm-course/course5/lab_fine-tune_FLAN-T5_Sumarization.md)
  - course 6 - LLM-powered applications
    - [1 - Model optimizations for deployment](genai-with-llm-course/course6/1_model_optimizations_deployment.md)
-   - [2 - Generative AI Project Lifecycle Cheat Sheet](genai-with-llm-course/course6/2_genai_project_lifecycle_cheat_sheet.md)
+   - [2 - Generative AI Project Lifecycle and Level of Effort Cheat Sheet](genai-with-llm-course/course6/2_genai_project_lifecycle_cheat_sheet.md)
 
   
 
@@ -47,9 +47,9 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
 
 
  - Slides from DeepLearning.ai (lecture notes)
-  - [Week 1](slides/W1.pdf]
-  - [Week 2](slides/W2.pdf]
-  - [Week 3](slides/W3.pdf]
+  - [Week 1 slides](slides/W1.pdf)
+  - [Week 2 slides](slides/W2.pdf)
+  - [Week 3 slides](slides/W3.pdf)
 
 
 
