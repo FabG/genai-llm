@@ -1,10 +1,11 @@
 # Gen AI LLM
 
-![generative-ai-with-llms-1](images/generative-ai-with-llms-1.png)
 
 This repo inclueds courses, code snippets from various sources to better learn and build an intuition about Large Language Models
 I first enrolled in a course from Deeplearning.ai called [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) Course from AWS and Deeplearning.ai.
 The main reason is my prior experience with Deeplearnin.ai as I gained a lot of knowledge from 2 prior courses from Andrew Ng and his team, namely [Machine Learning specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/) and [Deep Learning specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/)
+
+<img src="images/generative-ai-with-llms-1.png" alt="course_llm" width="100"/>
 
 ### Courses - Generative AI with Large Language Model
  - Course 1 - Intro to LLMs and the generative AI project lifecycle
