@@ -3,7 +3,7 @@
 
 
 ###### Below are some key notes from [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
-i
+
 
 ### Challenges of LLM that training can't solve alone
 There are some broader challenges with large language models that can't be solved by training alone. Let's take a look at a few examples.
