@@ -1,5 +1,5 @@
 # Gen AI LLM - Course 6
-## Part 4 - Interacting with external applications
+## Part 4 - Interacting with external applications and helping LLM reason with Chain-of-Thought
 
 
 ###### Below are some key notes from [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)

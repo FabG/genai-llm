@@ -40,8 +40,8 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [1 - Model optimizations for deployment](genai-with-llm-course/course6/1_model_optimizations_deployment.md)
    - [2 - Generative AI Project Lifecycle and Level of Effort Cheat Sheet](genai-with-llm-course/course6/2_genai_project_lifecycle_cheat_sheet.md)
    - [3 - Using the LLM in applications](genai-with-llm-course/course6/3_using_llm_in_applications.md)
-   - [4 - Interacting with external applications](genai-with-llm-course/course6/4_interacting_with_ext_apps.md)
-
+   - [4 - Interacting with external applications and helping LLM reason with Chain-of-Thought](genai-with-llm-course/course6/4_interacting_with_ext_apps.md)
+   - [5 - Program-aided language models, ReAct and Langchain](genai-with-llm-course/course6/5_program-aided_language_models.md)
   
 
  - Quiz
@@ -81,6 +81,8 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
  - [PEFT - Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) - This paper provides a systematic overview of Parameter-Efficient Fine-tuning (PEFT) Methods in all three categories discussed in the lecture videos.
  - [LoRA Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf) - This paper proposes a parameter-efficient fine-tuning method that makes use of low-rank decomposition matrices to reduce the number of trainable parameters needed for fine-tuning language models.
  - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf) - The paper explores "prompt tuning," a method for conditioning language models with learned soft prompts, achieving competitive performance compared to full fine-tuning and enabling model reuse for many tasks.
+ - [ReAct: Reasoning and action](https://arxiv.org/abs/2210.03629) - this paper introduces ReAct, a novel approach that integrates verbal reasoning and interactive decision making in large language models (LLMs).
+
 
 #### Other resources
  - [Hugging Face Tasks](https://huggingface.co/tasks)
