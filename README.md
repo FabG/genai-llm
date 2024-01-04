@@ -42,6 +42,7 @@ The main reason is my prior experience with Deeplearnin.ai as I gained a lot of 
    - [3 - Using the LLM in applications](genai-with-llm-course/course6/3_using_llm_in_applications.md)
    - [4 - Interacting with external applications and helping LLM reason with Chain-of-Thought](genai-with-llm-course/course6/4_interacting_with_ext_apps.md)
    - [5 - Program-aided language models, ReAct and Langchain](genai-with-llm-course/course6/5_program-aided_language_models.md)
+   - [6 - LLM application architectures and Sagemaker JumpStart](genai-with-llm-course/course6/6_llm_application_architectures.md)
   
 
  - Quiz
